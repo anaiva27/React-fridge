@@ -1,0 +1,38 @@
+.item {
+  border: solid 1px;
+  border-color: lightgray;
+  border-radius: 10px;
+  width: 100%;
+  margin-bottom: 7px;
+  box-shadow: 4px 5px #338e3e58;
+}
+
+.deleteButton {
+  float: left;
+  width: 25px;
+  color: red;
+  opacity: 50%;
+  text-align: center;
+  padding-top: 13px;
+}
+.fridgeButton {
+  width: 35px;
+  color: green;
+  float: right;
+}
+
+.foodName {
+  text-align: center;
+  padding-top: 10px;
+  font-weight: 700;
+  font-family: Helvetica, sans-serif;
+  font-size: x-large;
+}
+
+#testingOne {
+  background-color: purple;
+}
+
+.date {
+  font-weight: bold;
+}
